@@ -1,3 +1,4 @@
 this file for branch3
+new line add for create conflict branch 4 update
 this text for conflict creation,
 changes in branch4
