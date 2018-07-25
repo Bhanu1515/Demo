@@ -1,2 +1,3 @@
 this file for branch3
-this text for conflict creation
+this text for conflict creation,
+changes in branch4
